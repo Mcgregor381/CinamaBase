@@ -1,0 +1,91 @@
+.navbar
+{
+	z-index:1;
+
+	background-color:#000000;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+.page-footer
+{
+    overflow: hidden;
+	background-color:#000000;
+	margin-top: 15px;
+    width: 100%; /* Full width */
+}
+.text
+{
+		font-family: 'Bitter', serif;
+		font-size:18px;
+}
+
+.navbar-brand
+{
+	color:white !important;
+}
+.nav-link
+{
+	color:white !important;
+}
+.navbar-toggler-icon
+{
+		background-color:white !important;
+}
+.carousel-item
+{
+	max-height:400px;
+}
+ .carousel-inner img 
+ {
+	padding:2%;
+    width: 95%;
+	height: 100%;
+	max-height:400px;
+ }
+.container
+{
+	margin-top: 70px; 
+	width:100%;
+}
+
+.text
+{
+	width: 95%;
+	padding-left: 10%;
+	padding-right: 10%;
+	background-color:#black !important;
+}
+.col-sm-9
+{
+background-color: #B5B5B5;
+}
+.col-md-6
+{
+	padding-left: 10%
+}
+.btn
+{
+	position: center;
+    white-space:normal !important;
+    word-wrap: break-word !important;
+}
+
+.dropdown
+{
+	position: absolute;
+}
+.sel1
+{
+	max-width: 300px;
+}
+.center
+{
+	justify-content: space-around;
+	align-content: center;
+
+}
+.sm-space
+{
+	margin-top: 10px;
+}
